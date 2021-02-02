@@ -12,9 +12,11 @@
 ## Python
 ---
 [time.py](https://github.com/rimiiii/TIL/blob/master/Python/time.py): 시간 측정함수<br>
-[pdb.py](https://github.com/rimiiii/TIL/blob/master/Python/pdb.py): 디버깅함수<br>
+[debugging.py](https://github.com/rimiiii/TIL/blob/master/Python/pdb.py): 디버깅함수<br>
 [find_specific_files.py](https://github.com/rimiiii/TIL/blob/master/Python/find_specific_files.py): 폴더 안의 특정 파일명만 리스트로 가져오기<br>
 [create_directory.py](https://github.com/rimiiii/TIL/blob/master/Python/create_directory.py): 폴더 생성하기<br>
 [read_write_txt.py](https://github.com/rimiiii/TIL/blob/master/Python/read_write_txt.py): 텍스트 파일 읽기, 쓰기<br>
 [dumping_pkl.py](https://github.com/rimiiii/TIL/blob/master/Python/dumping_pkl.py): pickle로 덤핑하기<br>
 [loading_pkl.py](https://github.com/rimiiii/TIL/blob/master/Python/loading_pkl.py): pickle 로딩하기<br>
+[mv_file.py](https://github.com/rimiiii/TIL/blob/master/Python/mv_file.py): 파일 옮기기<br>
+[remove_file.py](https://github.com/rimiiii/TIL/blob/master/Python/remove_file.py): 파일 삭제하기<br>
