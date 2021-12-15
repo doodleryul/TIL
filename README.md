@@ -1,4 +1,7 @@
 # Today I Learned
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frimiiii%2FTIL&count_bg=%23F65C00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></a>
+</p>
 ---
 공부 또는 일을 하면서 알게된 작은 코드들을 업로드합니다.<br>
 
