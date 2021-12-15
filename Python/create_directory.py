@@ -8,3 +8,7 @@ try:
     print("Create directory..")
 except OSError:
   print("Error: Creating directory' + directory)
+
+
+# 간단 버전
+os.makedirs(directory, exist_ok=True)
