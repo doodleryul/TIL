@@ -24,3 +24,4 @@
 | progress bar | python | 상황바 표시하기 | [Link](https://github.com/rimiiii/TIL/blob/main/Python/tqdm.py) |
 | decode image | vision | base64 형식의 데이터 이미지로 디코딩하기 | [Link](https://github.com/rimiiii/TIL/blob/main/Python/image_decoding.py) |
 | BGR to RGB | vision | BGR을 RGB로 변환하기 | [Link](https://github.com/rimiiii/TIL/blob/main/Python/BGR2RGB.py) |
+| rm git | git | git 초기화 제거하기 | [Link](https://github.com/rimiiii/TIL/blob/main/Git/remove_git.sh) |
